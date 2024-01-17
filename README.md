@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcTolkmitt
-- 👀 I’m interested in Programming. Learned Java and C++...
-- 🌱 I’m currently learning Python and am looking forward to use that skill in combination with MetaTrader5 for an EA that will have 'Deep Q Learning' as one of its abilities.
-- 💞️ I’m looking to collaborate on 'Deep Learning in Finance'
+- 👀 I’m interested in Programming. Learned Java and C++... in these years its C#
+- 🌱 I’m currently learning Unity. A great thing using C# with such an engine ...
+- 💞️ Unity is a big world ...
 - 📫 You can send me an E-Mail: 'Marc.Tolkmitt@htp-tel.de'
 
 <!---
